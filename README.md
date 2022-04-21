@@ -5,5 +5,5 @@ _Projects_
 1. Implementing Animations In React Native Using Lottie
 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   https://github.com/ibelgin/BelginCode/blob/BelTech/1-Lottie/App.js
    ```
